@@ -6,12 +6,6 @@ The dashboard transforms raw retail data into meaningful business insights throu
 
 ---
 
-## 📊 Dashboard Preview
-
-![Blinkit Dashboard](Blinkit-Dashboard.png)
-
----
-
 ## 📌 Project Overview
 
 This project focuses on analyzing Blinkit's retail sales data to understand how different **product types, outlet characteristics, location tiers, outlet sizes, and fat content categories** contribute to overall business performance.
